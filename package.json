@@ -2,9 +2,6 @@
   "name": "boiler-plate-example-serempre",
   "version": "1.0.0",
   "private": false,
-  "bin": {
-    "boiler-plate-example-serempre": "./bin.js"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
